@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Lorik 👋
+
+🌱 I'm a self-taught front-end developer and I'm currently learning JavaScript and React. 
+
+🔭 I’m currently working on my personal website... will be up soon!! Stay tuned!
+
+Checkout my repos I worked on while learning to code😄
 
 <!--
 **lorikgagica/lorikgagica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +12,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
