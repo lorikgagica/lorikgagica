@@ -1,8 +1,8 @@
 ### Hi, I'm Lorik 👋
 
-🌱 I'm a self-taught front-end developer and I'm currently learning JavaScript and React. 
+🌱 I'm a self-taught front-end developer and I'm currently learning Python, JavaScript and React. 
 
-🔭 I’m currently working on my personal website... will be up soon!! Stay tuned!
+🔭 I’m currently working on my personal website and on Python Projects. Stay tuned!
 
 Checkout my repos I worked on while learning to code😄
 
