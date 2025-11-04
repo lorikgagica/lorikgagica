@@ -6,6 +6,10 @@
 
 Checkout my repos I worked on while learning to code😄
 
+## My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USER)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USER)
+
 <!--
 **lorikgagica/lorikgagica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
