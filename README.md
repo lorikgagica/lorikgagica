@@ -1,10 +1,14 @@
 ### Hi, I'm Lorik 👋
 
-🌱 I'm a self-taught front-end developer and I'm currently learning Python, JavaScript and React. 
+👋 I'm Project Manager and Certified Scrum Master (PSM I) with a passion for Python, automation, and front-end development.
 
-🔭 I’m currently working on my personal website and on Python Projects. Stay tuned!
+🌱 I’m currently building projects with Python (Tkinter, Pandas, automation tools) and expanding my skills in JavaScript.
 
-Checkout my repos I worked on while learning to code😄
+🔭 I’m developing my personal portfolio website and several automation tools that blend data, design, and productivity.
+
+💡 I enjoy using code to simplify workflows, visualize data, and turn ideas into practical solutions.
+
+⚡ Check out my repositories to see what I’ve been working on. More coming soon!
 
 ## My GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lorikgagica)
