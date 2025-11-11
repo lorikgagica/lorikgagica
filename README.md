@@ -1,5 +1,5 @@
 ### Hi, I'm Lorik 👋
-![Profile views](https://komarev.com/ghpvc/?username=lorikgagica)
+
 👋 I'm Project Manager and Certified Scrum Master with a passion for Python, automation, and front-end development.
 
 🌱 I’m currently building projects with Python (Tkinter, Pandas, automation tools) and expanding my skills in JavaScript.
@@ -9,6 +9,8 @@
 💡 I enjoy using code to simplify workflows, visualize data, and turn ideas into practical solutions.
 
 ⚡ Check out my repositories to see what I’ve been working on. More coming soon!
+
+![Profile views](https://komarev.com/ghpvc/?username=lorikgagica)
 
 ## My GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lorikgagica)
