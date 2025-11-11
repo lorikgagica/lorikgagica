@@ -1,6 +1,6 @@
 ### Hi, I'm Lorik 👋
 
-👋 I'm Project Manager and Certified Scrum Master (PSM I) with a passion for Python, automation, and front-end development.
+👋 I'm Project Manager and Certified Scrum Master with a passion for Python, automation, and front-end development.
 
 🌱 I’m currently building projects with Python (Tkinter, Pandas, automation tools) and expanding my skills in JavaScript.
 
