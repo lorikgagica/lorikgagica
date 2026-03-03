@@ -10,6 +10,7 @@
 
 ⚡ Check out my repositories to see what I’ve been working on. More coming soon!
 
+![Profile views](https://komarev.com/ghpvc/?username=lorikgagica)
 
 ## My GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lorikgagica)
