@@ -11,7 +11,7 @@
 ⚡ Check out my repositories to see what I’ve been working on. More coming soon!
 
 ![Profile views](https://komarev.com/ghpvc/?username=lorikgagica)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[lorikgagica]&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorikgagica&layout=compact&theme=vision-friendly-dark)
 
 <!--## My GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lorikgagica)
