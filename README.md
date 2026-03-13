@@ -14,6 +14,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorikgagica&layout=compact&theme=vision-friendly-dark)
 
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=lorikgagica&theme=dark)
+
 <!--## My GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lorikgagica)
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lorikgagica)-->
