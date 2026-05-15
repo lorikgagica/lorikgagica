@@ -12,11 +12,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=lorikgagica)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorikgagica&layout=compact&theme=vision-friendly-dark)
-
-<!--![Streak](https://github-readme-streak-stats.herokuapp.com/?user=lorikgagica&theme=dark)
-
-
 
 <!--
 **lorikgagica/lorikgagica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
